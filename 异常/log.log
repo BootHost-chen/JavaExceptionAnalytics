@@ -1,0 +1,6 @@
+ExcptionTest.ExcptionTest.java
+2020-04--09 02:19:19 AM
+java.lang.NullPointerException
+	at 异常/ExcptionTest.ExcptionTest.main(ExcptionTest.java:11)
+
+
